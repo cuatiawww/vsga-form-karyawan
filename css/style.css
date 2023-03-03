@@ -1,0 +1,12 @@
+* {
+  font-family: "Roboto", sans-serif;
+  font-size: 12px;
+  font-weight: bold;
+  color: #fff;
+  /* background-color: grey !important; */
+}
+
+.box-gol {
+  width: 64px;
+  height: 30px;
+}
